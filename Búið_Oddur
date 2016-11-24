@@ -6,3 +6,6 @@ Leiðu Píp Hljóði bætt við þegar stimplað er inn með útrunnu korti
 Textboxið hreinsað eftir að búið er að nota upplýsingar frá því
 Bætti við sql Search functionið svo það sé hægt að leita með lower case stöfum
 Bætti líka svo það þurfi ekki að skrifa fullt nafn í hvert skipti sem það er reynt að logga inn (hægt er að finna sig með einum staf (hvort sem það er upper eða lowercase (en það sýnir alla með þann staf líka)) 
+
+24.11
+Kóði færður yfir á main forrit
